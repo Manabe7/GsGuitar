@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -73,3 +74,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# GsGuitar
+GsGuitar is a ecommerce website that i create by use a knowledge that i have been learn through online course such as react typescript node.js tailwindcss
+>>>>>>> 3d57fa1d54bba572d38edba78a05b9c67bd72dda
